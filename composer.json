@@ -3,6 +3,8 @@
     "name": "jeffersongoncalves/mobilekitv4",
     "type": "project",
     "description": "The skeleton application for NativePHP, FilamentPHP and Laravel - Build native desktop and mobile applications.",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "keywords": [
         "laravel-starter-kit",
         "starter-kit",
